@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce55d28b-9dd9-4585-ba8e-d51ceda5fb97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PZEf0krKKflWOUNEHalt5YspqB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.practical2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Table">
+    <configuration name="DbConnnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practical9.DbConnnection" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.practical9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practical9.FileReading" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.practical9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Finally" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practical4.Finally" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.practical4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practical10.FrameClass" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.practical10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueClient" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practical6.QueueClient" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.practical6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practical10.SwingClass" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.practical10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practical10.Table" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.practical10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Finally" />
+      <item itemvalue="Application.QueueClient" />
+      <item itemvalue="Application.DbConnnection" />
+      <item itemvalue="Application.FileReading" />
+      <item itemvalue="Application.FrameClass" />
+      <item itemvalue="Application.SwingClass" />
+      <item itemvalue="Application.Table" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Table" />
+        <item itemvalue="Application.FrameClass" />
+        <item itemvalue="Application.SwingClass" />
+        <item itemvalue="Application.FileReading" />
+        <item itemvalue="Application.DbConnnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce55d28b-9dd9-4585-ba8e-d51ceda5fb97" name="Default Changelist" comment="" />
+      <created>1566073318225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566073318225</updated>
+    </task>
+    <servers />
+  </component>
+</project>
